@@ -1,3 +1,4 @@
+```
 kenet/
 ├── extensions.txt      # Algfail 10 erineva laiendiga
 ├── task_01.sh          # Bash skript juhuslike laiendite lisamiseks
@@ -7,3 +8,4 @@ kenet/
 └── TwoTask/            # PowerShell moodul
     ├── TwoTask.psm1    # Mooduli funktsioonid (Task01 ja Task02)
     └── TwoTask.psd1    # Mooduli manifest
+```
