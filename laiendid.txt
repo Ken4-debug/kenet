@@ -1,0 +1,10 @@
+txt
+csv
+py
+sh
+md
+json
+xml
+log
+html
+css
