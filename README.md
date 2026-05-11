@@ -1,6 +1,6 @@
 ```
 kenet/
-├── extensions.txt      # Algfail 10 erineva laiendiga
+├── laiendid.txt      # Algfail 10 erineva laiendiga
 ├── task_01.sh          # Bash skript juhuslike laiendite lisamiseks
 ├── task_02.sh          # Bash skript laiendite loendamiseks
 ├── task_01.py          # Pythoni versioon ülesandest 01
